@@ -4,7 +4,7 @@ export const sections = [
   {
     id: 'hero',
     subtitle: <Badge variant="outline" className="text-white border-white">Набор открыт</Badge>,
-    title: "Время строить будущее.",
+    title: "UC ОТ ФИЗИ",
     showButton: true,
     buttonText: 'Присоединиться'
   },
